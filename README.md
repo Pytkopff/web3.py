@@ -39,3 +39,5 @@ ______________________________________________________________________
 ## Questions on Implementation or Usage?
 
 Join the conversation in the Ethereum Python Community [Discord](https://discord.gg/GHryRvPB84).
+---
+Test contribution: small README edit by Pytkopff — verifying PR workflow for Talent Protocol.
